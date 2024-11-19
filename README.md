@@ -1,4 +1,4 @@
-# poc-dark-light-theme-html
+# Proof of Concept of a dark / light theme switcher in plain HTML
 
 ## Description
 
