@@ -1,4 +1,4 @@
-# PoC of a dark/light theme switcher
+# POC of a dark/light theme switcher
 
 ## Description
 
