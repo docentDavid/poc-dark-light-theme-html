@@ -1,4 +1,4 @@
-# Proof of Concept of a dark / light theme switcher in plain HTML
+# PoC of a dark/light theme switcher
 
 ## Description
 
